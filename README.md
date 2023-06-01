@@ -16,11 +16,13 @@ The Squid Game Sentiment Analysis project uses natural language processing techn
 
 ## Installation
 
-Open the project folder in your working environment 
+Open the project folder in your working environment in VS Code
 Navigate to the project directory using the cd command
 
 Install the required dependencies by running the following command:
 pip install -r requirements.txt
+
+The excel files are important: modify the relative path if necessary
 
 ## Usage
 
