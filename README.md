@@ -8,7 +8,7 @@ This project aims to perform sentiment analysis on tweets related to the TV seri
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Description
 
